@@ -1,0 +1,2 @@
+# VeriYapilarinUygulamalari
+Calisma
